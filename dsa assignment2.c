@@ -1,5 +1,4 @@
-// all answers are written in c
-// Satyam Tiwari (1024030088)
+//Vansh Arora(1024030514)
 
 /*
 1) Implement the Binary search algorithm regarded as a fast search algorithm
